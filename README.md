@@ -1,7 +1,7 @@
 # Hackerrank
 
 ### Company Logo
-Goal: To count 3 top-high of number of characters in each words.
+**Goal:** To count 3 top-high of number of characters in each words.
 
 ```
 import math
@@ -19,7 +19,7 @@ s_counter = sorted(s_counter, key=lambda x: (x[1] * -1, x[0]))
 for i in range(0, 3):
     print(s_counter[i][0], s_counter[i][1])
 ```
-Example Result: <br/>
+**Example Result:** <br/>
 input = 'elephantttt'
 ```
 t 4

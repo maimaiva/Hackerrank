@@ -1,7 +1,7 @@
-# hackerank
+# Hackerrank
 
 ### Company Logo
-Count number of characters in the words, print top 3 
+Goal: To count 3 top-high of number of characters in each words.
 
 ```
 import math

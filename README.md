@@ -39,3 +39,6 @@ if __name__ == '__main__':
     
     print("{}\n{}".format(a//b, a/b))
 ```
+**Example Result:** <br/>
+input = '5','3'
+output = '1'.'1.66667'

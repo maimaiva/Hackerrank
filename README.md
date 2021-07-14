@@ -29,6 +29,7 @@ a 1
 
 
 ### Division
+**Goal:** 
 - The first line should contain the result of integer division, a//b. 
 - The second line should contain the result of float division, a/b .
 ```
@@ -37,4 +38,4 @@ if __name__ == '__main__':
     b = int(input())
     
     print("{}\n{}".format(a//b, a/b))
-    ```
+```

@@ -26,3 +26,15 @@ t 4
 e 2
 a 1
 ```
+
+
+### Division
+- The first line should contain the result of integer division, a//b. 
+- The second line should contain the result of float division, a/b .
+```
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    
+    print("{}\n{}".format(a//b, a/b))
+    ```

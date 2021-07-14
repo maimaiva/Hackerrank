@@ -1,4 +1,4 @@
-# Hackerrank
+# HackerRank
 
 ### :space_invader: Company Logo
 **Goal:** To count 3 top-high of number of characters in each words.

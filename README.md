@@ -42,3 +42,20 @@ if __name__ == '__main__':
 **Example Result:** <br/>
 input = '5'and '3' <br/>
 output = '1' and '1.66667' <br/>
+
+
+### Weird or Not Weird
+**Goal:** 
+- If  is odd, print Weird.
+- If  is even and in the inclusive range 2of 5 to , print Not Weird.
+- If  is even and in the inclusive range 6of20  to , print Weird.
+- If  is even and greater than , print Not Weird.
+
+```
+if __name__ == '__main__':
+    n = int(input().strip())
+    
+    if (n in range (6, 21) or n % 2 != 0):
+        print("Weird")
+    else: print("Not Weird")
+ ```

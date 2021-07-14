@@ -1,6 +1,6 @@
 # Hackerrank
 
-### Company Logo
+### :space_invader: Company Logo
 **Goal:** To count 3 top-high of number of characters in each words.
 
 ```
@@ -28,7 +28,7 @@ a 1
 ```
 
 
-### Division
+### :space_invader: Division
 **Goal:** 
 - The first line should contain the result of integer division, a//b. 
 - The second line should contain the result of float division, a/b .
@@ -44,7 +44,7 @@ input = '5'and '3' <br/>
 output = '1' and '1.66667' <br/>
 
 
-### Weird or Not Weird
+### :space_invader: Weird or Not Weird
 **Goal:** 
 - If  is odd, print Weird.
 - If  is even and in the inclusive range 2of 5 to , print Not Weird.
